@@ -9,7 +9,7 @@ A simple and customizable code editor that provides syntax highlighting for mult
 - **Customizable Themes:** Easily change the background and code colors.
 
 ## Demo
-View the live demo [here]((https://basecodeditor.netlify.app/))
+View the live demo [here]((https://basecodeditor.netlify.app/)
 
 ## Installation
 1. Clone the repository:
